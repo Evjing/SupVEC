@@ -1,18 +1,18 @@
 # SupVEC
 
-### This part include some realization (Pyhton) of classical alrogism in Machine Learning。
+### This part contains some implementations (Pyhton) of classical algorithms for machine Learning。
 
-#### Bayes Classfier
+#### Naive Bayesian Classification
 
-#### EM（Gauss Model）
+#### EM(Expectation-maximization) algorithm in GMM (Gaussian Mixture Model)
 
-#### SVM(Suport Vector Machine) ————————with SMO
+#### SVM(Support Vector Machine) ————————with SMO（Sequential Minimal Optimization）
 
-#### HMM
+#### HMM(Hidden Markov Model)
 
-#### Karlman filter
+#### KF(Kalman Filter)
 
-#### particial filter
+#### Particle Filter
 
 ### Extention
 
